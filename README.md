@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka2708&label=Profile%20views&color=0e75b6&style=flat" alt="arka2708" /> </p>
 
 
-- 🌱 I’m currently learning **Java, Springboot, MERN**
+- 🌱 I’m currently learning **Machine Learning, AI, Django**
 
 - 💬 Ask me about **MERN, Web-Dev**
 
