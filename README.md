@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI, Django**
 
-- 💬 Ask me about **MERN, Web-Dev**
+- 💬 Ask me about **MERN, Web-Dev,ML**
 
 - 📫 How to reach me **arkajyoti2708@gmail.com**
 
